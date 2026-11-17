@@ -1,0 +1,13 @@
+{
+  "name": "taller-if-for-while-javascript",
+  "version": "1.0.0",
+  "description": "Solucion de los ejercicios del taller de estructuras condicionales y ciclos en JavaScript",
+  "private": true,
+  "scripts": {
+    "ejercicio1": "node ejercicio1_triangulos.js",
+    "ejercicio2": "node ejercicio2_contrasena.js",
+    "ejercicio3": "node ejercicio3_cajero.js",
+    "ejercicio4": "node ejercicio4_piramide.js",
+    "ejercicio5": "node ejercicio5_adivinanza.js"
+  }
+}
